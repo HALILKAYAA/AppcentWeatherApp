@@ -13,9 +13,9 @@
 <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-5.3-orange.svg?style=flat" alt="Swift"/></a>
 </p>
 <p align="center">
-<img src="https://github.com/HALILKAYAA/WeatherReport/blob/main/Resources/screenshot1.png" alt="WeatherReport Screenshots" width="350">
-<img src="https://github.com/HALILKAYAA/WeatherReport/blob/main/Resources/screenshot2.png" alt="WeatherReport Screenshots" width="350">
-<img src="https://github.com/HALILKAYAA/WeatherReport/blob/main/Resources/screenshot3.png" alt="WeatherReport Screenshots" width="350">
+<img src="https://github.com/HALILKAYAA/AppcentWeatherApp/blob/main/Resources/screenshot1.png" alt="WeatherReport Screenshots" width="350">
+<img src="https://github.com/HALILKAYAA/AppcentWeatherApp/blob/main/Resources/screenshot2.png" alt="WeatherReport Screenshots" width="350">
+<img src="https://github.com/HALILKAYAA/AppcentWeatherApp/blob/main/Resources/screenshot3.png" alt="WeatherReport Screenshots" width="350">
 </p>
 
 ## About the App
